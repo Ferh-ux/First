@@ -1,1 +1,1 @@
-git dersleri öğrenilmiştir. 
+git .hub 
